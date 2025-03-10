@@ -7,6 +7,7 @@
 
 ### 😎 About Me  
 Passionate about ***automating infrastructure, optimizing CI/CD pipelines, and building cloud-native applications***. I specialize in ***scalable microservices and efficient deployments, bridging the gap between development and operations***. 
+
 🔹 Expertise: **Cloud Automation | Microservices | CI/CD | Scalable Web Apps**
 🔹 Tech Stack: **AWS | Jenkins | Kubernetes | Terraform | Java | Spring Boot**
 
