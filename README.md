@@ -24,7 +24,7 @@ Passionate about ***automating infrastructure, optimizing CI/CD pipelines, and b
 
 
 ### 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/prashanth-m-jadar-b42b42208)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-m-jadar-b42b42208)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/PrashanthMJ21)  
 📧 **Email:** mjnaveen41@gmail.com  
 📞 **Phone:** +91 9742185020  
