@@ -11,6 +11,7 @@ Passionate about ***automating infrastructure, optimizing CI/CD pipelines, and b
 🔹 Expertise: **Cloud Automation | Microservices | CI/CD | Scalable Web Apps**
 
 🔹 Tech Stack: **AWS | Jenkins | Kubernetes | Terraform | Java | Spring Boot**
+---
 
 📌 **Key Skills:**  
 - **Languages:** Java, SQL  
